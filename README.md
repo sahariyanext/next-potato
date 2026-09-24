@@ -61,17 +61,13 @@ I build production-minded web applications with a focus on clean UX, secure auth
 | **Auth System** | Secure login and signup flow with session handling | Supabase Auth |
 | **Landing Page Starter** | Modern, responsive website template | HTML, CSS, JavaScript |
 
-> Add repo links: `[Project Name](https://github.com/your-username/repo)`
 
 ## Get in Touch
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahariyanext)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahariyarabbi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahariyarabbi2712@email.com)
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent&hide_border=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top languages" />
-</p>
+
